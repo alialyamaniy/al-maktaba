@@ -128,8 +128,8 @@ Only admins with the Service range have access to the Library settings, where to
 
 ---
 
-- ["Al·Maktaba | الـمـكـتـبـة" Repository](https://github.com/aliyelyamani/al-maktaba/)
-- [@aliyelyamani](https://github.com/aliyelyamani/)
+- ["Al·Maktaba | الـمـكـتـبـة" Repository](https://github.com/aliyalkadimy/al-maktaba/)
+- [@aliyelyamani](https://github.com/aliyalkadimy/)
 - <aselyamanis@gmail.com>
 
 ---
